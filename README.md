@@ -11,6 +11,6 @@ Key Components:
 6. Deployment: Once you have a trained model, we'll guide you on how to deploy it for practical use, whether through a web application or as part of a larger healthcare system.
 
 # Requirements
-- Anaconda
+- [Anaconda](https://www.anaconda.com/download/)
 - Tensorflow, Numpy, Pandas, Matplotlib libraries(Installed in the Anaconda cloud environment)
-- [Datasets](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000)(From Kaggle)
+- [Datasets](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000) (From Kaggle)
