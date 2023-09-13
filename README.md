@@ -14,5 +14,3 @@ Key Components:
 - [Anaconda](https://www.anaconda.com/download/)
 - Tensorflow, Numpy, Pandas, Matplotlib Libraries (Installed in the Anaconda cloud environment)
 - [Datasets](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000) (From Kaggle)
-
-# Results
