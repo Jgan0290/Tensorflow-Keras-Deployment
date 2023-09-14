@@ -12,12 +12,12 @@ Key Components:
 # Models
 
 Four CNN architectures are explored for transfer learning:
-InceptionV3 (2015) - Unique inception modules with convolutions of varying sizes help capture multi-scale features. Has 159 layers.
-Xception (2016) - Extends Inception design using depthwise separable convolutions. 126 layers total.
-ResNet50V2 (2016) - 50-layer residual network allowing very deep training. Uses identity shortcut connections.
-DenseNet121 (2017) - Densely connected layers allow feature reuse. Has only 121 layers but high parameter efficiency.
+- InceptionV3 (2015) - Unique inception modules with convolutions of varying sizes help capture multi-scale features. Has 159 layers.
+- Xception (2016) - Extends Inception design using depthwise separable convolutions. 126 layers total.
+- ResNet50V2 (2016) - 50-layer residual network allowing very deep training. Uses identity shortcut connections.
+- DenseNet121 (2017) - Densely connected layers allow feature reuse. Has only 121 layers but high parameter efficiency.
 
-These models are pretrained on ImageNet and provide a strong starting point.
+*These models are pretrained on ImageNet and provide a strong starting point.
 
 # Training Methodology
 The training workflow involves:
